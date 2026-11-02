@@ -72,17 +72,3 @@ Diseño de una pantalla de inicio profesional utilizando una interfaz visual mod
 - Icon
 - FilledButton
 
----
-
-## Estructura del Proyecto
-
-```text
-LDSW-Utilizacion-de-widgets
-│
-├── README.md
-│
-├── Actividad1-WidgetsBasicos
-│   └── main.dart
-│
-└── Actividad2-HomeScreen
-    └── main.dart
