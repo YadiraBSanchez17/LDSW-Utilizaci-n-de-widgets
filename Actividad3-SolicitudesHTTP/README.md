@@ -1,19 +1,17 @@
-# LDSW
+# LDSW - Solicitudes HTTP con Flutter
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Aplicación desarrollada en Flutter que realiza peticiones HTTP mediante el paquete http.
 
-## Getting Started
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Consumo de API REST pública (PokéAPI).
+- Solicitudes HTTPS.
+- Obtención de datos en formato JSON.
+- Visualización de información e imagen de Pokémon.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Tecnologías utilizadas
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- Flutter
+- Dart
+- HTTP Package
+- PokéAPI
